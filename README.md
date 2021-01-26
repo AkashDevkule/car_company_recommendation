@@ -10,5 +10,3 @@
   1. Logistic Regression
   2. Decision Tree
   3. KNN classifier 
-
-
