@@ -6,7 +6,7 @@
   1. Data selection
   2. Data cleaning
 
-*  Different classifier techniques used in project 
+***Different classifier techniques used in project*** 
   1. Logistic Regression
   2. Decision Tree
   3. KNN classifier 
