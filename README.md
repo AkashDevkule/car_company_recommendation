@@ -5,6 +5,7 @@
 * Data Preprocessing
   1. Data selection
   2. Data cleaning
+  3. Normalization Data  
 
 ***Different classifier techniques used in project*** 
   1. Logistic Regression
